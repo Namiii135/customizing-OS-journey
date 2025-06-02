@@ -44,11 +44,6 @@ Here's what I'm customizing (or planning to):
 
 ---
 
-## 🧠 Notes
-
-> I'm uploading only safe config files. API keys, sensitive data, and machine-specific paths are excluded for security.
-
----
 
 ## 📌 TODO
 
@@ -64,6 +59,10 @@ Here's what I'm customizing (or planning to):
 ## 📷 Screenshot 
 
 -1) SPOTIFY CUSTOM
+![Alt text](pic1.png)
+![Alt text](pic2.png)
+![Alt text](pic3.png)
 
-Feel free to star 🌟 this repo if you're into Linux customization too!
+
+-2) File dot
 
