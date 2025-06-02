@@ -59,9 +59,9 @@ Here's what I'm customizing (or planning to):
 ## 📷 Screenshot 
 
 -1) SPOTIFY CUSTOM
-![Alt text](pic1.png)
-![Alt text](pic2.png)
-![Alt text](pic3.png)
+![Alt text](/screenshot/pic1.png)
+![Alt text](/screenshot/pic2.png)
+![Alt text](/screenshot/pic3.png)
 
 
 -2) File dot
