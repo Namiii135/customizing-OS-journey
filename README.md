@@ -64,5 +64,7 @@ Here's what I'm customizing (or planning to):
 ![Alt text](/screenshot/pic3.png)
 
 
--2) File dot
+-2) Terminal kitty
+![Alt text](/screenshot/pic4.png)
+
 
