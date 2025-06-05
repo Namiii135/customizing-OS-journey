@@ -34,7 +34,8 @@ Here's what I'm customizing (or planning to):
 ## 🚧 Progress
 
 - ✅ `1)` **Spotify** – Themed using Spicetify + Last.fm API + custom CSS
-
+- ✅ `2)` **KiTTY** - custom terminal 
+- `5%` `3)`  **HYPRLAND** - Window manager (i wasted whole day setting my own,then my stupid ass forgot to make a backup config, so for now i will use preconfig ML4W setup, still laggy like hyde waaa) -only put keybinds in my repo
 ---
 
 ## 📦 Dotfiles Management
@@ -47,10 +48,10 @@ Here's what I'm customizing (or planning to):
 
 ## 📌 TODO
 
-- [ ] Add terminal theme
+- [x] Add terminal theme
 - [ ] Configure Firefox CSS
-- [ ] Setup Hyprland
-- [ ] Add Waybar config
+- [x] Setup Hyprland
+- [x] Add Waybar config
 - [ ] Add zsh/fish prompt
 - [ ] Automate with script
 
@@ -67,4 +68,6 @@ Here's what I'm customizing (or planning to):
 -2) Terminal kitty
 ![Alt text](/screenshot/pic4.png)
 
+-3) Window manager (hyprland ml4w preconfig)
+![Alt text](/screenshot/test.gif)
 
