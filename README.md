@@ -69,5 +69,5 @@ Here's what I'm customizing (or planning to):
 ![Alt text](/screenshot/pic4.png)
 
 -3) Window manager (hyprland ml4w preconfig)
-![Alt text](/screenshot/test(1).gif)
+![Alt text](/screenshot/meme.gif)
 
