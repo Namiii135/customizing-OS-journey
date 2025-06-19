@@ -69,6 +69,6 @@ Here's what I'm customizing (or planning to):
 ![Alt text](/screenshot/pic4.png)
 
 -3) Window manager (hyprland ml4w preconfig)
-<video src="https://cdn.discordapp.com/attachments/829611480349016095/1385257227186733108/VID_20250619_215627_494.mp4" controls width="500"></video>
+[![Watch the demo](https://cdn.discordapp.com/attachments/829611480349016095/1385257227186733108/VID_20250619_215627_494.mp4)
 
 	
